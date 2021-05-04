@@ -1,0 +1,5 @@
+  "DefaultConnection": "Server=PCHOME\\SQLEXPRESS;Database=PeliculasApiv2;User ID=soporte;Password=123456;Trusted_Connection=false;MultipleActiveResultSets=true",
+
+ "DefaultConnection": "Data Source==PCHOME\\SQLEXPRESS;Initial Catalog=aPeliculasApiv2;Integrated Security=True",
+    
+  },
